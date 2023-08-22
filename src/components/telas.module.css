@@ -1,0 +1,19 @@
+telas {
+    width: 600px;
+    height: 600px;
+    border-radius: 50px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.telas img {
+    width: 50%;
+    height:50% ;
+    object-fit: cover;
+    margin-left: 50px;
+}
+
+.telas h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}

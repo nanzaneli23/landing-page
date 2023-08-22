@@ -1,0 +1,15 @@
+pro {
+    width: 600px;
+    height: 600px;
+    border-radius: 50px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.pro img {
+    width: 50%;
+    height:50% ;
+    object-fit: cover;
+    margin-left: 700px;
+    margin-top: -480px;
+}

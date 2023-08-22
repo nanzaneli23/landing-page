@@ -1,0 +1,13 @@
+inicio {
+    width: 600px;
+    height: 600px;
+    border-radius: 50px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.inicio img {
+    width: 50%;
+    height:50% ;
+    object-fit: cover;
+}
